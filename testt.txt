@@ -2,3 +2,5 @@ msg akun 1
 tes
 tes
 msg akun 2
+halo ini dari akun 2
+halo
